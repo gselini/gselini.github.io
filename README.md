@@ -1,20 +1,16 @@
-# gselini.github.io
-User Pages site
+# Software Consultant for Analytical Data Processing
 
 ![picture](./giorgio.jpeg "giorgio")
 *Fig. 0: Historical picture showing me happy with an apparently invisible presence on my side*
 
 # about
 
-Mostly and preferably in telco domain, focusing on data-intensive back-end applications.
-
-Implementing analytical transformations (i.e. deriving data from relationships among data), also in bulk and continuous processing.
-
+Mostly and preferably in telco domain, focusing on data-intensive back-end applications. \
+Implementing analytical transformations (i.e. deriving data from relationships among data), also in bulk and continuous processing. \
 Long-term commitment to constructing durable software (as opposed to throw-away stuff). Oriented towards projects rather than tasks.
 
-My goal is not to endlessly repeat what I already know.
-On the contrary I have a capacity for evolving, using what I know to do what I do not yet know.
-
+My goal is not to endlessly repeat what I already know, neither do I think that is the best way to employ experienced or skilled people. \
+On the contrary I have a capacity for evolving, using what I know to do what I do not yet know. \
 I am driven by my interest in the subject matter, while always keeping in mind the usefulness for others (it is a job).
 
 This is proven by a sequence of long term cycles:
@@ -44,10 +40,9 @@ This is proven by a sequence of long term cycles:
     + Including exams on Statistics
     + Dissertation on type parametrization-based programming in C++
 
-Problem- and concept- and question- driven, self-learner, self-starter and self-motivating.
-
-Deductive, rather than repetitive. Fundamentally capable of approaching new (unseen) things.
-
-Evolutionary, both on projects and myself.
-
+Problem- and concept- and question- driven, self-learner, self-starter and self-motivating. \
+Deductive, rather than repetitive. Fundamentally capable of approaching new (unseen) things. \
+Evolutionary, both on projects and myself. \
 Team player, collaborative person (rather than competitive), constructive, willing to share knowledge with receptive people.
+
+## employment history
