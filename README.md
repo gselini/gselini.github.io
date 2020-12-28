@@ -1,7 +1,7 @@
 # Software Consultant for Analytical Data Processing
 
 ![picture](./giorgio.jpeg "giorgio")
-*Fig. 0: Historical picture showing me happy with an apparently invisible presence on my side*
+*Fig. 0: Historical picture showing me happy with an apparently invisible presence on my side (the Unknown Colleague).*
 
 # about
 
@@ -9,9 +9,9 @@ Mostly and preferably in telco domain, focusing on data-intensive back-end appli
 Implementing analytical transformations (i.e. deriving data from relationships among data), also in bulk and continuous processing. \
 Long-term commitment to constructing durable software (as opposed to throw-away stuff). Oriented towards projects rather than tasks.
 
-My goal is not to endlessly repeat what I already know, neither do I think that is the best way to employ experienced or skilled people. \
+While experienced, I am no rentier and my goal is not to endlessly repeat what I already know, neither do I think that is the best way to employ skilled people. \
 On the contrary I have a capacity for evolving, using what I know to do what I do not yet know. \
-I am driven by my interest in the subject matter, while always keeping in mind the usefulness for others (it is a job).
+I am driven by my interest in the subject matter and in new things, while always keeping in mind the usefulness for others (it is a job).
 
 This is proven by a sequence of long term cycles:
 
