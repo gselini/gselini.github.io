@@ -4,6 +4,7 @@
 <li><a href="./index.md">about</a></li>
 <li class="nav-active"><a href="./employment.md">employment</a></li>
 <li><a href="./education.md">education</a></li>
+<li><a href="./certifications.md">certifications</a></li>
 </ul>
 
 last updated 2020-12-29
