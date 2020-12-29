@@ -5,7 +5,7 @@ last updated 2020-12-29
 ![picture](./giorgio.jpeg "giorgio")
 *Fig. 0: Historical picture showing me happy with an apparently invisible presence on my side (the Unknown Colleague).*
 
-# about
+## about
 
 Mostly and preferably in telco domain, focusing on data-intensive back-end applications. \
 Implementing analytical transformations (i.e. deriving data from relationships among data), also in bulk and continuous processing. \
@@ -51,21 +51,21 @@ Team player, collaborative person (rather than competitive), constructive, willi
 
 ## employment history
 
-* Jun 2018 – Present: Niuma, Milan
+* Jun 2018 – Present: Niuma (contractor for NTT DATA Italia), Milan
     + Software Consultant (Scala/FP, Big Data processing, SQL)
-        - Jul 2019 – Present: Data lake (Allianz, on behalf of NTT DATA Italia). \
+        - Jul 2019 – Present: Data lake (Allianz). \
         Platform: Scala/FP, libraries (ZIO, circe, doobie, FastParse, etc.), Kafka, Spark, Delta Lake (delta.io), PostgreSQL, Oracle Exadata \
         My results of note:
             * design and implementation of the logic for current and SCD materializations using Delta Lake
 
             * implementation of a system of reporting based on Spark SQL.
 
-        - Dec 2019 – Jan 2020: Data Enrichment (KMaster Telepass, on behalf of NTT Data): \
+        - Dec 2019 – Jan 2020: Data Enrichment (KMaster Telepass): \
         stateful stream processing of telemetry data from fleets of trucks. \
         Platform: Scala/FP, libraries (e.g. ZIO, doobie, scalacache), Kafka, Flink, Elasticsearch, Google Cloud Platform, Redis
 
     + Software Consultant (Analytic SQL, Oracle SQL performance)
-        - Jun 2018 – Jun 2019: DWH back-end (Vodafone, on behalf of NTT DATA Italia): \
+        - Jun 2018 – Jun 2019: DWH back-end (Vodafone): \
         custom configuration-driven Data Warehouse system. \
         Platform: Oracle Exadata \
         My functions:
