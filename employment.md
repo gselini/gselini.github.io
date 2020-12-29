@@ -1,7 +1,7 @@
 # Software Consultant for Analytical Data Processing
 
 <ul class="nav">
-<li><a href="./README.md">about</a></li>
+<li><a href="./index.md">about</a></li>
 <li class="nav-active"><a href="./employment.md">employment</a></li>
 </ul>
 
