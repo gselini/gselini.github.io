@@ -3,6 +3,7 @@
 <ul class="nav">
 <li class="nav-active"><a href="./index.md">about</a></li>
 <li><a href="./employment.md">employment</a></li>
+<li><a href="./education.md">education</a></li>
 </ul>
 
 last updated 2020-12-29
