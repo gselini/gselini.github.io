@@ -1,11 +1,11 @@
 # Software Consultant for Analytical Data Processing
 
-last updated 2020-12-29
-
 <ul class="nav">
-<li><a href="./">about</a></li>
+<li><a href="./README.md">about</a></li>
 <li class="nav-active"><a href="./employment.md">employment</a></li>
 </ul>
+
+last updated 2020-12-29
 
 ## employment history
 

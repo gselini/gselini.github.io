@@ -1,16 +1,16 @@
 # Software Consultant for Analytical Data Processing
 
-last updated 2020-12-29
-
 <ul class="nav">
-<li class="nav-active"><a href="./">about</a></li>
+<li class="nav-active"><a href="./README.md">about</a></li>
 <li><a href="./employment.md">employment</a></li>
 </ul>
+
+last updated 2020-12-29
 
 ![picture](./giorgio.jpeg "giorgio")
 *Fig. 0: Historical picture showing me happy with an apparently invisible presence on my side (the Unknown Colleague).*
 
-## about
+## profile and competencies summary
 
 Mostly and preferably in telco domain, focusing on data-intensive back-end applications. \
 Implementing analytical transformations (i.e. deriving data from relationships among data), also in bulk and continuous processing. \
@@ -25,7 +25,7 @@ This is proven by a sequence of long term cycles:
 
 * current cycle: Scala/FP, Big Data processing (Spark, Kafka), SQL
     + Functional Programming paradigm
-    + Odersky courses progfun1 and progfun2 (including all assignments) passed (it is not a TV series!)
+    + Odersky courses progfun1 and progfun2 (including all assignments) passed (it is a course, not a TV series!)
     + Core language, sbt, Standard Library
     + Additional libraries: ZIO and its ecosystem (including zio-kafka and zio-test), circe, doobie, FastParse, etc.
     + This language has been my access path to several Big Data platforms: Kafka, Spark, Flink, etc.
