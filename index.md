@@ -5,11 +5,12 @@
 <li><a href="./employment.md">employment</a></li>
 <li><a href="./education.md">education</a></li>
 <li><a href="./certifications.md">certifications</a></li>
+<li><a href="./contacts.md">contacts</a></li>
 </ul>
 
-last updated 2020-12-29
+last updated 2020-12-30
 
-![picture](./giorgio.jpeg "giorgio")
+![picture](./giorgio.jpeg "Giorgio")
 *Fig. 0: Historical picture showing me happy with an apparently invisible presence on my side (the Unknown Colleague).*
 
 ## profile and competencies summary
@@ -19,7 +20,7 @@ Implementing analytical transformations (i.e. deriving data from relationships a
 Long-term commitment to constructing durable software (as opposed to throw-away stuff). \
 Oriented towards projects rather than school-like tasks.
 
-While experienced, I am no rentier and my goal is not to endlessly repeat what I already know, neither do I think that is the best way to employ skilled people. \
+While experienced, I am no rentier and my goal is not to endlessly repeat what I already know, neither do I think that cutting and pasting is the best way to employ skilled people. \
 On the contrary there is a capacity for evolving, using what we know to do what we do not yet know. \
 I am driven by my interest in the subject matter and in new things, while always keeping in mind the usefulness for others (it is a job).
 
@@ -52,6 +53,7 @@ This is proven by a sequence of long term cycles:
     + Dissertation on type parametrization-based programming in C++
 
 Problem- and concept- and question- driven, self-learner, self-starter and self-motivating. \
+Appreciating complexity and diversity, both in things and in people. \
 Deductive, rather than repetitive. Fundamentally capable of approaching new (unseen) things. \
 Evolutionary, both on projects and myself. \
 Team player, collaborative person (rather than competitive), constructive, willing to share knowledge with receptive people.
