@@ -1,13 +1,13 @@
-# Software Consultant for Analytical Data Processing
+# gselini – Software Consultant for Analytical Data Processing
 
-<ul class="nav">
-<li><a href="./index.md">about</a></li>
-<li><a href="./employment.md">employment</a></li>
-<li class="nav-active"><a href="./education.md">education</a></li>
-<li><a href="./certifications.md">certifications</a></li>
-<li><a href="./courses.md">courses</a></li>
-<li><a href="./contacts.md">contacts</a></li>
-</ul>
+<div class="topnav">
+    <a href="./index.md">about</a>
+    <a href="./employment.md">employment</a>
+    <a class="active" href="./education.md">education</a>
+    <a href="./certifications.md">certifications</a>
+    <a href="./courses.md">courses</a>
+    <a href="./contacts.md">contacts</a>
+</div>
 
 last updated 2020-12-30
 
