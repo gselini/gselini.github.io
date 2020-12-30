@@ -5,6 +5,7 @@
 <li><a href="./employment.md">employment</a></li>
 <li class="nav-active"><a href="./education.md">education</a></li>
 <li><a href="./certifications.md">certifications</a></li>
+<li><a href="./courses.md">courses</a></li>
 <li><a href="./contacts.md">contacts</a></li>
 </ul>
 
