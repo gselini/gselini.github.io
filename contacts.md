@@ -13,7 +13,3 @@
 last updated 2020-12-31
 
 ## contacts
-
-Humans can write me an email: [giorgio.selini@gmail.com](mailto:giorgio.selini@gmail.com)
-
-I am on LinkedIn: [giorgio-selini-801496113](https://www.linkedin.com/in/giorgio-selini-801496113/)
