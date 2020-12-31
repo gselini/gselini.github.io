@@ -2,6 +2,7 @@
 
 <div class="topnav">
     <a href="./index.md">about</a>
+    <a href="./competencies.md">competencies</a>
     <a href="./employment.md">employment</a>
     <a href="./education.md">education</a>
     <a class="active" href="./certifications.md">certifications</a>
@@ -9,7 +10,7 @@
     <a href="./contacts.md">contacts</a>
 </div>
 
-last updated 2020-12-30
+last updated 2020-12-31
 
 ## certifications
 
@@ -29,7 +30,7 @@ Oracle Testing ID: OC1298291
 [Oracle], 2014 \
 Oracle Testing ID: OC1298291
 
-* Cambridge English: Proficiency (CPE) \
+* Cambridge English: Certificate of Proficiency in English (CPE) \
 [Cambridge English], 2007 \
 Credential ID 0018537272
 
