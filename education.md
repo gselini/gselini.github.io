@@ -10,13 +10,14 @@
     <a href="./contacts.md">contacts</a>
 </div>
 
-last updated 2020-12-30
+last updated 2020-12-31
 
 ## education
 
 * Università degli Studi di Milano \
 Master's degree, Mathematics, 110/110 cum laude \
 1991 – 1997 \
+"Indirizzo generale", with Probability and Statistics exams \
 Dissertation title: "Programmazione Generica [= type parametrization-based programming] in C++"
 
 * Liceo Scientifico Statale "Paolo Frisi" Monza \

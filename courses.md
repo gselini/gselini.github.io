@@ -10,7 +10,7 @@
     <a href="./contacts.md">contacts</a>
 </div>
 
-last updated 2020-12-30
+last updated 2020-12-31
 
 ## courses taken
 
