@@ -1,5 +1,3 @@
-# gselini – Software Consultant for Analytical Data Processing
-
 <div class="topnav">
     <a class="active" href="./index.html">about</a>
     <a href="./competencies.html">competencies</a>
