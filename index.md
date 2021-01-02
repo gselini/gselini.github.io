@@ -8,7 +8,7 @@
     <a href="./contacts.html">contacts</a>
 </div>
 
-last updated 2020-12-31
+last updated 2021-01-02
 
 ![picture](./giorgio.jpeg "Giorgio")
 *Fig. 0: Historical picture showing me happy with an apparently invisible presence on my side (the Unknown Colleague).*
@@ -29,6 +29,8 @@ This is shown by a sequence of long term cycles (details are on the [next page](
 * current cycle: Scala/FP, Big Data processing (Spark, Kafka), SQL
 * previous cycle: Oracle database development and performance tuning
 * hystorical (but qualifying), archived cycle: C++
+
+That is why I prefer to define my activity in terms of what I do, rather than in terms of which tools I use, unlike many software consultants.
 
 All that was made possible also by my background education (details are [here](./education.md)):
 

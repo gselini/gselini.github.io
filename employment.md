@@ -8,18 +8,19 @@
     <a href="./contacts.html">contacts</a>
 </div>
 
-last updated 2020-12-31
+last updated 2021-01-02
 
 ## employment history
 
 * **Jun 2018 – Present: Niuma (contractor for NTT DATA Italia), Milan**
     + *Software Consultant (Scala/FP, Big Data processing, SQL)*
         - Jul 2019 – Present: Data lake (Allianz). \
-        Platform: Scala/FP, libraries (ZIO, circe, doobie, FastParse, etc.), Kafka, Spark, Delta Lake (delta.io), PostgreSQL, Oracle Exadata \
+        Platform: Scala/FP, libraries (ZIO, circe, doobie, FastParse, etc.), Kafka, Spark, [Delta Lake](https://delta.io/), PostgreSQL, Oracle Exadata \
+        Participation in the startup phase and contribution to all major backend parts: ingestion, materialization, query \
         My results of note:
             * design and implementation of the logic for current and SCD materializations using Delta Lake
 
-            * implementation of a system of reporting based on Spark SQL.
+            * implementation of a system of reporting based on Spark SQL
 
         - Dec 2019 – Jan 2020: Data Enrichment (KMaster Telepass): \
         stateful stream processing of telemetry data from fleets of trucks. \
