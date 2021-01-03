@@ -8,7 +8,7 @@
     <a href="./contacts.html">contacts</a>
 </div>
 
-last updated 2021-01-02
+last updated 2021-01-03
 
 ![picture](./giorgio.jpeg "Giorgio")
 *Fig. 0: Historical picture showing me happy with an apparently invisible presence on my side (the Unknown Colleague).*
@@ -18,7 +18,7 @@ last updated 2021-01-02
 Mostly and preferably in telco domain, focusing on data-intensive back-end applications. \
 Implementing analytical transformations (i.e. deriving data from relationships among data), also in bulk and continuous processing. \
 Long-term commitment to constructing durable non-throw-away software. \
-Oriented towards projects rather than school-like one-day tasks.
+Oriented towards projects rather than one-day tasks.
 
 While experienced, I am no rentier and my goal is not to endlessly repeat what I already know, neither do I think that cutting and pasting is the best way to employ skilled people. \
 On the contrary there is a capacity for evolving, using what we know, to do what we do not know yet. \
