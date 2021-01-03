@@ -8,7 +8,7 @@
     <a href="./contacts.html">contacts</a>
 </div>
 
-last updated 2021-01-02
+last updated 2021-01-03
 
 ## employment history
 
@@ -16,8 +16,7 @@ last updated 2021-01-02
     + *Software Consultant (Scala/FP, Big Data processing, SQL)*
         - Jul 2019 – Present: Data lake (Allianz). \
         Platform: Scala/FP, libraries (ZIO, circe, doobie, FastParse, etc.), Kafka, Spark, [Delta Lake](https://delta.io/), PostgreSQL, Oracle Exadata \
-        Participation in the startup phase and contribution to all major backend parts: ingestion, materialization, query \
-        My results of note:
+        Participation in the startup phase, and contribution to all major backend parts (ingestion, materialization, query), notably: 
             * design and implementation of the logic for current and SCD materializations using Delta Lake
 
             * implementation of a system of reporting based on Spark SQL
