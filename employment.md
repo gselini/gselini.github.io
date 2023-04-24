@@ -8,13 +8,25 @@
     <a href="./contacts.html">contacts</a>
 </div>
 
-last updated 2021-01-03
+last updated 2023-04-24
 
 ## employment history
 
-* **Jun 2018 – Present: Niuma (contractor for NTT DATA Italia), Milan**
+* **Jul 2021 – Present: NTT DATA Italia, Milan**
+    + *Data Engineer (Big Data processing, Scala/FP, SQL)*
+        - Jan 2023 – Present: Data platform WTB Pilot for DWH (Eolo). \
+        Platform: Snowflake, Azure, Data Factory, Power BI \
+        Participation in the startup phase, and contribution to the Snowflake component, notably:
+            * design and implementation of the replication logic and part of the transformation logic
+
+            * mentoring to younger members of the project
+
+        - Jul 2021 – Present: Data lake (Allianz). \
+        Major platform migration, introducing Azure, Kubernetes, Spark 3.x, and Databricks.
+
+* **Jun 2018 – Jul 2021: Niuma (contractor for NTT DATA Italia), Milan**
     + *Software Consultant (Scala/FP, Big Data processing, SQL)*
-        - Jul 2019 – Present: Data lake (Allianz). \
+        - Jul 2019 – Jul 2021: Data lake (Allianz). \
         Platform: Scala/FP, libraries (ZIO, circe, doobie, FastParse, etc.), Kafka, Spark, [Delta Lake](https://delta.io/), PostgreSQL, Oracle Exadata \
         Participation in the startup phase, and contribution to all major backend parts (ingestion, materialization, query), notably: 
             * design and implementation of the logic for current and SCD materializations using Delta Lake
