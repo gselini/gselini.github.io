@@ -26,7 +26,7 @@ last updated 2023-04-24
         - Additional libraries: ZIO and its ecosystem (including zio-kafka and zio-test), circe, doobie, FastParse, etc.
         - this language has been my access path to the Java ecosystem and to several Big Data platforms: Kafka, Spark, etc.
 
- * *all-encompassing (forever)*
+* *all-encompassing (forever)*
     + UNIX and Linux
         - several flavours (from HP-UX/Solaris/AIX to Linux to WSL2)
         - both as a development platform and an operating environment
