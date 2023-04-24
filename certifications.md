@@ -8,9 +8,17 @@
     <a href="./contacts.html">contacts</a>
 </div>
 
-last updated 2020-12-31
+last updated 2023-04-24
 
 ## certifications
+
+* [Confluent Certified Developer for Apache Kafka](https://www.confluent.io/certification/) \
+Confluent, 2022 \
+[Credential ID 61279441](https://www.credential.net/e699abfc-9a17-4112-a861-61ef727766b4#gs.vp3w8e)
+
+* [Snowflake SnowPro Core Certification](https://www.snowflake.com/certifications/) \
+Snowflake, 2021 \
+[Credential ID 10389079](https://www.credly.com/badges/11438e4b-f9aa-466e-a63b-8104e45f3d8e/public_url)
 
 * [Functional Program Design in Scala (progfun2)](https://www.coursera.org/learn/progfun2) \
 Coursera, 2019 \

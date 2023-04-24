@@ -8,22 +8,23 @@
     <a href="./contacts.html">contacts</a>
 </div>
 
-last updated 2020-12-31
+last updated 2023-04-24
 
 ## competencies details
 
 * *current*
-    + Scala/FP
-        - Functional Programming paradigm
-        - Odersky courses progfun1 and progfun2 (including all assignments) passed (it is a course, not a TV series!)
-        - core language, sbt, Standard Library
-        - Additional libraries: ZIO and its ecosystem (including zio-kafka and zio-test), circe, doobie, FastParse, etc.
-        - this language has been my access path to the Java ecosystem and to several Big Data platforms: Kafka, Spark, Flink, etc.
-
     + Big Data processing
         - Spark: SQL and DataFrame API
         - Spark: DeltaLake library
         - Kafka
+        - Snowflake
+
+   + Scala/FP
+        - Functional Programming paradigm
+        - Odersky courses progfun1 and progfun2 (including all assignments) passed (it is a course, not a TV series!)
+        - core language, sbt, Standard Library
+        - Additional libraries: ZIO and its ecosystem (including zio-kafka and zio-test), circe, doobie, FastParse, etc.
+        - this language has been my access path to the Java ecosystem and to several Big Data platforms: Kafka, Spark, etc.
 
 * *all-encompassing (forever)*
     + UNIX and Linux

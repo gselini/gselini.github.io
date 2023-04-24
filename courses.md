@@ -8,9 +8,15 @@
     <a href="./contacts.html">contacts</a>
 </div>
 
-last updated 2020-12-31
+last updated 2023-04-24
 
 ## courses taken
+
+* 2022, [Confluent Training], Confluent Stream Processing using Apache Kafka® Streams & ksqlDB
+
+* 2022, [Confluent Training], Confluent Developer Skills for Building Apache Kafka®
+
+* 2021, [Snowflake Training], Snowflake Fundamentals 4-Day Instructor-Led
 
 * 2017, [Oracle Education], Oracle Database 12c: Analytic SQL for Data Warehousing
 
@@ -27,3 +33,5 @@ last updated 2020-12-31
 
 [Corsi di lingue del comune di Milano]: http://formami.comune.milano.it/lingue/
 [Oracle Education]: https://education.oracle.com/
+[Snowflake Training]: https://training.snowflake.com/
+[Confluent Training]: https://training.confluent.io/content/courses
