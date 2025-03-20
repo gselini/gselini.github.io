@@ -8,20 +8,39 @@
     <a href="./contacts.html">contacts</a>
 </div>
 
-last updated 2023-04-24
+last updated 2025-03-20
 
 ## employment history
 
 * **Jul 2021 – Present: NTT DATA Italia, Milan**
-    + *Data Engineer (Big Data processing, Scala/FP, SQL)*
-        - Jan 2023 – Present: Data platform WTB Pilot for DWH (Eolo). \
+    + *Data Engineer (Snowflake, SQL, Big Data processing)*
+        - Jun 2024 - Present: Network Creation / Cruscotto POP (Open Fiber). \
+        Platform: Snowflake, OpenTofu (Terraform), GitLab, Airflow, AWS, Cloudera, Qlik Sense \
+        Setup and development on the Snowflake data platform: 
+            * initial project set up (e.g., git repo structure definition)
+
+            * Snowflake administration for account-level objects (databases and schemas, warehouses, roles, users, grants)
+
+            * definition of storage integrations for ingestion from an external staging area on AWS S3
+
+            * development of analytical data transformations, also using incremental processing with Snowflake Streams
+
+            * development of table-generic replica procedures, using dynamic SQL and table metadata
+
+            * orchestration using a custom Airflow-based application
+
+            * database change management using OpenTofu (open-source Terraform alternative) with Snowflake provider for account-level objects and using schemachange for schema-level objects
+
+            * implementation of the schemachange deploy jobs in the GitLab deploy pipeline of the project
+
+        - Jan 2023 – May 2024: Data platform WTB Pilot for DWH (Eolo). \
         Platform: Snowflake, Azure, Data Factory, Power BI \
         Participation in the startup phase, and contribution to the Snowflake component, notably:
             * design and implementation of the replication logic and part of the transformation logic
 
             * mentoring to younger members of the project
 
-        - Jul 2021 – Present: Data lake (Allianz). \
+        - Jul 2021 – Jan 2023: Data lake (Allianz). \
         Major platform migration, introducing Azure, Kubernetes, Spark 3.x, and Databricks.
 
 * **Jun 2018 – Jul 2021: Niuma (contractor for NTT DATA Italia), Milan**
