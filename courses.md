@@ -8,9 +8,11 @@
     <a href="./contacts.html">contacts</a>
 </div>
 
-last updated 2023-04-24
+last updated 2025-03-20
 
 ## courses taken
+
+* 2024, [Snowflake Training], Snowflake Data Engineer Training
 
 * 2022, [Confluent Training], Confluent Stream Processing using Apache Kafka® Streams & ksqlDB
 
@@ -31,7 +33,7 @@ last updated 2023-04-24
 * 2005-2006, [Corsi di lingue del comune di Milano], Training for Cambridge English CAE exam
 
 
-[Corsi di lingue del comune di Milano]: http://formami.comune.milano.it/lingue/
+[Corsi di lingue del comune di Milano]: https://www.comune.milano.it/web/lingue
 [Oracle Education]: https://education.oracle.com/
 [Snowflake Training]: https://training.snowflake.com/
 [Confluent Training]: https://training.confluent.io/content/courses

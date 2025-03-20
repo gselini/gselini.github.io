@@ -8,16 +8,25 @@
     <a href="./contacts.html">contacts</a>
 </div>
 
-last updated 2023-04-24
+last updated 2025-03-20
 
 ## competencies details
 
 * *current*
+    + Snowflake
+        - administration for account-level objects (databases and schemas, warehouses, roles, users, grants, storage integrations)
+        - development of analytical data transformations, using SQL and Snowflake Scripting
+        - incremental processing using Snowflake Streams
+        - development of generic procedures, using dynamic SQL and metadata
+        - native logging with event table
+        - troubleshooting, tuning, and cost monitoring
+        - database change management using OpenTofu (open-source Terraform alternative) with Snowflake provider for account-level objects
+        - database change management using schemachange for schema-level objects
+
     + Big Data processing
         - Spark: SQL and DataFrame API
         - Spark: DeltaLake library
         - Kafka
-        - Snowflake
 
    + Scala/FP
         - Functional Programming paradigm

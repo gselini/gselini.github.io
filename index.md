@@ -8,7 +8,7 @@
     <a href="./contacts.html">contacts</a>
 </div>
 
-last updated 2021-01-03
+last updated 2025-03-20
 
 ![picture](./giorgio.jpeg "Giorgio")
 *Fig. 0: Historical picture showing me happy with an apparently invisible presence on my side (the Unknown Colleague).*
@@ -16,7 +16,8 @@ last updated 2021-01-03
 ## about – profile and competencies summary
 
 Mostly and preferably in telco domain, focusing on data-intensive back-end applications. \
-Implementing analytical transformations (i.e. deriving data from relationships among data), also in bulk and continuous processing. \
+Implementing analytical transformations (i.e. deriving data from relationships among data), also in bulk and incremental/continuous processing. \
+Apt to think about data, and to operate on it, practically and effectively, considering structure, keys, relationships, cardinalities, logic of transformations, operations, and costs. \
 Long-term commitment to constructing durable non-throw-away software. \
 Oriented towards projects rather than one-day tasks or tickets.
 
@@ -26,7 +27,7 @@ I am driven by my interest in the subject matter and in new things, while always
 
 This is shown by a sequence of long term cycles (details are on the [next page](./competencies.md)):
 
-* current cycle: Scala/FP, Big Data processing (Spark, Kafka), SQL
+* current cycle: Snowflake, SQL on Big Data, Big Data processing (Spark, Kafka), Scala/FP
 * previous cycle: Oracle database development and performance tuning
 * hystorical (but qualifying), archived cycle: C++
 
