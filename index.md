@@ -18,11 +18,11 @@ last updated 2025-03-20
 Mostly and preferably in telco domain, focusing on data-intensive back-end applications. \
 Implementing analytical transformations (i.e. deriving data from relationships among data), also in bulk and incremental/continuous processing. \
 Apt to think about data, and to operate on it, practically and effectively, considering structure, keys, relationships, cardinalities, logic of transformations, operations, and costs. \
-Long-term commitment to constructing durable non-throw-away software. \
+Long-term commitment to constructing durable, non-throw-away software. \
 Oriented towards projects rather than one-day tasks or tickets.
 
 While experienced, I am no rentier and my goal is not to endlessly repeat what I already know, neither do I think that cutting and pasting is the best way to employ skilled people. \
-On the contrary there is a capacity for evolving, using what we know, to do what we do not know yet. \
+On the contrary, there is a capacity for evolving, using what we know, to do what we do not know yet. \
 I am driven by my interest in the subject matter and in new things, while always keeping in mind the usefulness for others (it is a job).
 
 This is shown by a sequence of long term cycles (details are on the [next page](./competencies.md)):
