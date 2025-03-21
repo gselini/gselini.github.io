@@ -8,7 +8,7 @@
     <a href="./contacts.html">contacts</a>
 </div>
 
-last updated 2025-03-20
+last updated 2025-03-21
 
 ## competencies details
 
@@ -16,6 +16,7 @@ last updated 2025-03-20
     + Snowflake
         - administration for account-level objects (databases and schemas, warehouses, roles, users, grants, storage integrations)
         - development of analytical data transformations, using SQL and Snowflake Scripting
+        - ingestion and mapping of semi-structured (e.g., Parquet, JSON) data
         - incremental processing using Snowflake Streams
         - development of generic procedures, using dynamic SQL and metadata
         - native logging with event table
@@ -27,6 +28,8 @@ last updated 2025-03-20
         - Spark: SQL and DataFrame API
         - Spark: DeltaLake library
         - Kafka
+        - Big Data file formats (e.g., Parquet), and table formats (e.g., Delta Lake, Iceberg)
+        - Cloud Storage (Azure Blob Storage, AWS S3)
 
    + Scala/FP
         - Functional Programming paradigm
