@@ -8,7 +8,7 @@
     <a href="./contacts.html">contacts</a>
 </div>
 
-last updated 2025-03-20
+last updated 2025-03-21
 
 ## employment history
 
@@ -19,9 +19,9 @@ last updated 2025-03-20
         Setup and development on the Snowflake data platform: 
             * initial project set up (e.g., git repo structure definition)
 
-            * Snowflake administration for account-level objects (databases and schemas, warehouses, roles, users, grants)
-
-            * definition of storage integrations for ingestion from an external staging area on AWS S3
+            * Snowflake administration for account-level objects (databases and schemas, warehouses, roles, users, grants, storage integrations)
+            
+            * cost monitoring for computation, also with custom queries on account usage views
 
             * development of analytical data transformations, also using incremental processing with Snowflake Streams
 
@@ -33,12 +33,24 @@ last updated 2025-03-20
 
             * implementation of the schemachange deploy jobs in the GitLab deploy pipeline of the project
 
-        - Jan 2023 – May 2024: Data platform WTB Pilot for DWH (Eolo). \
+        - Jan 2023 – May 2024: Data platform WTB Pilot for DWH and Data Platform Evolution (Eolo). \
         Platform: Snowflake, Azure, Data Factory, Power BI \
         Participation in the startup phase, and contribution to the Snowflake component, notably:
-            * design and implementation of the replication logic and part of the transformation logic
+          * initial set up of the Snowflake part of the project with git versioning
 
-            * mentoring to younger members of the project
+          * mentoring to younger team members
+
+          * Snowflake administration for account-level objects (databases and schemas, warehouses, roles, users, grants, storage integrations)
+
+          * database change management using schemachange for schema-level objects
+
+          * analysis and design of several replica modes and processes and implementation in a generic (i.e. table-metadata-driven) way
+
+          * analysis, design, and implementation of several data transformations (porting from SQL Server to Snowflake)
+
+          * ingestion and mapping of JSON data from Genesys Cloud API responses
+
+          * porting from Cloudera to Snowflake of data transformations to build a report for MagNews
 
         - Jul 2021 – Jan 2023: Data lake (Allianz). \
         Major platform migration, introducing Azure, Kubernetes, Spark 3.x, and Databricks.
