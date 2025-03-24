@@ -8,7 +8,7 @@
     <a href="./contacts.html">contacts</a>
 </div>
 
-last updated 2025-03-21
+last updated 2025-03-24
 
 ## competencies details
 
@@ -28,7 +28,7 @@ last updated 2025-03-21
         - Spark: SQL and DataFrame API
         - Spark: DeltaLake library
         - Kafka
-        - Big Data file formats (e.g., Parquet), and table formats (e.g., Delta Lake, Iceberg)
+        - Big Data file formats (e.g., Parquet), and table formats (e.g., Delta Lake)
         - Cloud Storage (Azure Blob Storage, AWS S3)
 
    + Scala/FP
